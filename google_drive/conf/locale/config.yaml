@@ -1,6 +1,7 @@
 # Configuration for i18n workflow.
 
 locales:
+    - ru  # Russian
     - en  # English - Source Language
 
 # The locales used for fake-accented English, for testing.

@@ -35,9 +35,6 @@ htmlcov/
 diff-cover.html
 pii_report
 
-# Translations
-*.mo
-
 # IDEs and text editors
 *~
 *.swp
